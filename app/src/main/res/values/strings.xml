@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KidsQuiz</string>
+    <string name="title_home">홈</string>
+    <string name="title_statistics">통계</string>
+    <string name="title_settings">설정</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
